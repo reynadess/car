@@ -1,0 +1,45 @@
+  #CAR{
+    position: relative;
+    width:15%;
+    right: 10px;
+  }
+  .contain{
+    border: 1px solid black;
+  }
+  .but{
+    font-size: 2.5em;
+    border: 1px solid black;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    width: 250px;
+    height: 200px;
+  }
+
+  .in{
+    width: 50px;
+  }
+
+  #UP{
+    position: relative;
+    top: 10px;
+    left: 110px;
+  }
+
+  #DOWN{
+    position: relative;
+    top: 77px;
+    left: 49px;
+  }
+
+  #LEFT{
+    position: relative;
+    top: 77px;
+    left: -63px;
+  }
+
+  #RIGHT{
+    position: relative;
+    top: 76px;
+    left: -22px;
+  }
